@@ -1,0 +1,6 @@
+scikit-learn
+dash
+matplotlib
+seaborn
+bs4
+plotly
